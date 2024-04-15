@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/10/17 12:59 上午
+# @Time    : 2020/10/17 12:59
 # @Author  : xu.junpeng
 from app import create_app
 from config import SERVER_PORT
